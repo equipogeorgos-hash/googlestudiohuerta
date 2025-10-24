@@ -1,0 +1,5 @@
+
+  "name": "Directorio de Huertas",
+  "description": "Una aplicación web para que los agricultores de huertas puedan publicar su información de contacto y productos, permitiendo que otros los vean y se pongan en contacto. Los mensajes se guardan en un historial en la página.",
+  "requestFramePermissions": []
+}
